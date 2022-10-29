@@ -1,0 +1,1 @@
+Here, checkpoints from training runs are saved. That includes initial configurations, network weights throughout the process, and final results (included losses)
