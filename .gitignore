@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 target_chessboard/
 *__pycache__/
-IMT4392/project/numbers/exps
-IMT4392/project/modulo/checkpoints
+IMT4392/project/numbers/data/
+*checkpoints/
+
